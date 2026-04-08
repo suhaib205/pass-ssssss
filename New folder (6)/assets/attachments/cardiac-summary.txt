@@ -1,6 +1,0 @@
-Acute Coronary Syndrome Summary
-
-- Prioritize MONA components according to current guideline context.
-- Reassess chest pain, blood pressure, oxygenation, and ECG changes.
-- Watch for contraindications before nitrate use.
-- Escalate immediately for hemodynamic instability.
