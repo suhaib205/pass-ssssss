@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#0f172a"/>
+  <rect x="60" y="60" width="1080" height="680" rx="32" fill="#1e293b" stroke="#42a5f5" stroke-width="4"/>
+  <text x="100" y="150" fill="#ffffff" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="54" font-weight="700">
+    ABG Rapid Review
+  </text>
+  <text x="100" y="220" fill="#94a3b8" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="28">
+    1. pH decides acid or base
+  </text>
+  <text x="100" y="280" fill="#94a3b8" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="28">
+    2. PaCO2 tracks respiratory component
+  </text>
+  <text x="100" y="340" fill="#94a3b8" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="28">
+    3. HCO3 tracks metabolic component
+  </text>
+  <text x="100" y="430" fill="#67e8f9" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="42" font-weight="700">
+    Opposite = respiratory
+  </text>
+  <text x="100" y="500" fill="#4ade80" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="42" font-weight="700">
+    Same = metabolic
+  </text>
+  <text x="100" y="600" fill="#ffffff" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="26">
+    Designed for Nursing Quiz VOD lesson attachments.
+  </text>
+</svg>
